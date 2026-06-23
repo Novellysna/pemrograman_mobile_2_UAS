@@ -3,10 +3,10 @@
 
 ## Identitas Mahasiswa
 
-- **Nama:** Novellysna Nurziska  
-- **NIM:** 312410131  
-- **Kelas:** I241A
-- **Link ClickUp:** https://app.clickup.com/90181887809/v/l/6-901817836509-1
+# **Nama:** Novellysna Nurziska  
+# **NIM:** 312410131  
+# **Kelas:** I241A
+# **Link ClickUp:** https://app.clickup.com/90181887809/v/l/6-901817836509-1
 
 ---
 
