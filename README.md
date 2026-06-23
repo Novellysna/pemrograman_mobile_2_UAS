@@ -1,12 +1,14 @@
 # pemrograman_mobile_2_UAS
 # PinkNotes – Aplikasi Catatan dengan Fitur AI
 
-## Identitas Mahasiswa
+## Nama: Novellysna Nurziska
+## Nim: 312410131
+## Kelas: TI. 24. A1
 
-# **Nama:** Novellysna Nurziska  
-# **NIM:** 312410131  
-# **Kelas:** I241A
-# **Link ClickUp:** https://app.clickup.com/90181887809/v/l/6-901817836509-1
+## Link ClickUp
+https://app.clickup.com/90181887809/v/l/li/901817836509
+
+
 
 ---
 
